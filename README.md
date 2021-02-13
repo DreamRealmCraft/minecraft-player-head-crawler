@@ -1,4 +1,4 @@
-# playerhead-patching-
+# playerhead-batching
 a python script to get minecraft playhead images from websites in patches
 
 一个用于批量从网页获取Minecraft玩家头像图片的python代码
@@ -28,9 +28,9 @@ installing method(without pycharm):
   在windows cmd 或macos终端运行:
   
   
-    pip install request
+    `pip install request`
     
-    pip install xlrd==1.2.0
+    `pip install xlrd==1.2.0`
     
     
 in pycharm, install request and xlrd 1.2.0 from plugin
