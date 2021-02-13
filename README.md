@@ -1,5 +1,5 @@
 # playerhead-patching-
-a python script to get minecraft playhead from websites
+a python script to get minecraft playhead from websites in patches
 
 一个用于批量从网页获取Minecraft玩家头像的python代码
 
